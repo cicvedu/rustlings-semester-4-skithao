@@ -19,7 +19,7 @@
 // I AM NOT DONE
 
 pub struct ReportCard {
-    pub grade: f32,
+    pub grade: ,
     pub student_name: String,
     pub student_age: u8,
 }
